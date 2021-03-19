@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": 19006,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://ag-iwc.anonymous.project-73.exp.direct",
+  "packagerNgrokUrl": "https://packager.ag-iwc.anonymous.project-73.exp.direct",
+  "ngrokPid": 13944,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "packagerPid": 14056
+}
